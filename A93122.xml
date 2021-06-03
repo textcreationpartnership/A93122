@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sheriffs of London for the time being, are the proper managers and legal judges of the election of sheriffs for the year ensuing.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93122</idno><idno type="EEBO-CITATION">43077619</idno>
+  <idno type="VID">151710</idno>
+  <idno type="EEBO-PROQUEST">2240875022</idno>
+  
+            <idno type="STC">Wing S3235</idno>
+            <idno type="STC">ESTC R184083</idno>
+            <idno type="OCLC">43077619</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93122)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151710)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2273:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sheriffs of London for the time being, are the proper managers and legal judges of the election of sheriffs for the year ensuing.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Dew.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England). --  Sheriffs' Court.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151710:1"/>
+            <head>THE Sheriffs of London For the time being, are the proper MANAGERS and Legal JUDGES OF THE Election of Sheriffs For the year ensuing.</head>
+            <p>THE Right of Electing <hi>Sheriffs</hi> being already demonstrated to belong by Law, Charter, and Custom, to the Free-men or Barons of <hi>London;</hi> and this being acknowledged by my Lord <hi>Mayor</hi> and the Court of <hi>Aldermen</hi> on <hi>Saturday</hi> last, in their granting and allowing to the Common▪ Hall the Nomination of both the <hi>Sheriffs:</hi> All that comes under debate at present, is concerning the nature of the Court that is held for the Election of these Officers, and who are the Proper Managers, and as it were Judges thereof. It is certain, That before the Statute of <hi>Lincoln,</hi> all the <hi>Sheriffs</hi> of the Kingdom were chosen in their several and respective County-Courts, where the <hi>Sheriffs</hi> for the time being, did, by putting the Questions, collecting the Suffrages, and declaring upon whom the choice, through the Majority of Votes, had fallen, constantly precide and govern the Elections. And as to this day▪ the Election of <hi>Coroners</hi> remains vested in the County-Courts, where the several <hi>Sui<g ref="char:EOLhyphen"/>ters</hi> in the respective Courts have the Right and Priviledg of Chusing those Officers; so the managing the said Elections is by all men confessed to ap<g ref="char:EOLhyphen"/>pertain to the <hi>Sheriffs</hi> then and there in Office, when and where such Electi<g ref="char:EOLhyphen"/>ons are to be transacted. Now, forasmuch as the <hi>Statute</hi> of <hi>Lincoln</hi> doth no ways extend to the City of <hi>London,</hi> and County of <hi>Middlesex,</hi> because they hold, claim, and enjoy the Election of annual Sheriffs of the said City by Charter, <hi>&amp;c.</hi> and the Election of the yearly Sheriffs of <hi>Middlesex</hi> by the Charters, Patents, and Grants of the Kings of <hi>England</hi> at the Fee-Farm Rent of Three Hundred Pound <hi>per annum;</hi> it undeniably follows, That the Court wherein the Choice of the said Officers is transacted and mana<g ref="char:EOLhyphen"/>ged by the <hi>Barons</hi> and Free-men, is in the Nature of a County-Court; and that the Sheriffs for the time being, are to conduct, rule, and declare the Election.</p>
+            <p>And seeing the <hi>Common-Hall's</hi> for the choice of Parliament-men for the City of <hi>London,</hi> and I may add, for the Election of <hi>Mayors,</hi> are of the same nature with these which are held for the Election of Sheriffs; it na<g ref="char:EOLhyphen"/>turally and demonstratively ensues, that the Sheriffs being granted to be the proper Officers for the putting the Questions, taking the Suffrages, and declaring upon whom the Majority of Hands or Votes have fallen in the Election of Members for Parliament, and in the choice of <hi>Mayors,</hi> so it likewise appertains and belongs to them to guide and manage the Election of the Offi<g ref="char:EOLhyphen"/>cers now under debate, and to publish and proclaim upon whom the Citizens do devolve that trust.</p>
+            <pb facs="tcp:151710:2"/>
+            <p>And forasmuch as the City of <hi>London</hi> is by ancient Prescription, a Coun<g ref="char:EOLhyphen"/>ty, there do thereupon, and by virtue thereof belong unto it, not only <hi>Sheriffs,</hi> but a County-Court, as an incident and adjunct inseperable from a County; and whatsoever hath at any time heretofore been the Prerogative and Right of the Sheriffs in the County Courts of <hi>England,</hi> doth entirely remain to the Sheriffs of <hi>London,</hi> there being no Act of Parliament or Char<g ref="char:EOLhyphen"/>ter, by which they are stript or devested of them.</p>
+            <p>It is matter of astonishment, how the present Lord <hi>Mayor</hi> comes to pre<g ref="char:EOLhyphen"/>tend to any such Right, Priviledg or Power, seeing all his Predecessors have constantly left the management of this Matter and Affair to the Sheriffs, for the time being, as the Officers to whom it did properly belong. Tho there have been some in the Chair heretofore, who understood the Prero<g ref="char:EOLhyphen"/>gatives of their Place, and who had as much zeal for the maintaining the Rights of the Chair, as any can be supposed to do, or have.</p>
+            <p>And should the present <hi>Sheriffs</hi> suffer themselves to be deprived of this Right and Appurtenance of their Office, they would not only betray the Trust reposed in them, but become liable to all such Actions as may or shall be brought against them by those <hi>Citizens</hi> who conceive and e<g ref="char:EOLhyphen"/>steem themselves injur'd. And if upon Tryal of such Actions, it do ap<g ref="char:EOLhyphen"/>pear, That my Lord <hi>Mayor</hi> hath no Right to govern the Poll, they will not only entail a perpetual infamy upon their Name, but be con<g ref="char:EOLhyphen"/>demned to such Fines and Costs as will infallibly ruin and impoverish them.</p>
+            <p>And for any to alledg, That my Lord <hi>Mayor</hi> may dissolve the Court, if things do not go according to his inclination and mind, is both to put upon him that which he hath no Right, either by Law, Charter, or Act of Common-Council to do, being there only in the Quality of a <hi>Concivis,</hi> or Fellow-Citizen; and to cloath him with a Capacity, and Power of depriving the City of such Officers, and exposing both the City and himself to such Consequences, as I tremble to mention.</p>
+            <p>And for any to insist upon the Confirmation of the Gentleman that my Lord <hi>Mayor</hi> hath drunk to, meerly upon that score and motive, is both plainly to destroy the <hi>Plea</hi> which the City have put in to the <hi>Quo Warran<g ref="char:EOLhyphen"/>to</hi> against their Charter, and to make themselves obnoxious to Indictments, Plaints and Actions, as Betrayers and Subverters of the Rights and Priviledges of the <hi>Corporation.</hi>
+            </p>
+            <p>For as all the Charters are for the Citizens Election of Two Sheriffs from a<g ref="char:EOLhyphen"/>mong themselves; so the Council for the City-Charter, are unanimous, that this is their legal and undisputable Right.</p>
+            <p>And as to what refers to the present Choice, it was after a fair and peace<g ref="char:EOLhyphen"/>able management (notwithstanding many provocations to have begott<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Di<g ref="char:EOLhyphen"/>sturbances, and created Riots), declared to have fallen upon Mr. <hi>Papillon,</hi> and Mr. <hi>Duboise,</hi> two as worthy Gentlemen as ever were called to that Office in the City of <hi>London.</hi> Yea, when the <hi>Poll</hi> was demanded, contrary to all sense, and meerly to give the Electors Trouble, it was not only readily granted by the present <hi>Sheriffs,</hi> but all things in the conduct of it▪ carried with the greatest impartiality, condescention, and forbearance imaginable.</p>
+            <p>For tho the present <hi>Sheriffs,</hi> as well as the Freemen, are resolved to adhere to their Rights, yet they are not to be provok'd upon by the heats and passi<g ref="char:EOLhyphen"/>ons of others, to do any thing which may either be an offence against the Government, or endanger the quiet and peace of the City.</p>
+            <p>And we are all assured, that his Majesty will neither encourage the infring<g ref="char:EOLhyphen"/>ment of the Laws of the Land, or countenance the overthrowing the Prviled<g ref="char:EOLhyphen"/>ges and Jurisdictions of his Regal Chamber.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Dew.</hi> 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
